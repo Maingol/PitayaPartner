@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leeco/JetbrainsWorkplace/Rider/PitayaPartner/PitayaPartner/PitayaPartner.csproj": {}
+  },
+  "projects": {
+    "/Users/leeco/JetbrainsWorkplace/Rider/PitayaPartner/PitayaPartner/PitayaPartner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leeco/JetbrainsWorkplace/Rider/PitayaPartner/PitayaPartner/PitayaPartner.csproj",
+        "projectName": "PitayaPartner",
+        "projectPath": "/Users/leeco/JetbrainsWorkplace/Rider/PitayaPartner/PitayaPartner/PitayaPartner.csproj",
+        "packagesPath": "/Users/leeco/.nuget/packages/",
+        "outputPath": "/Users/leeco/JetbrainsWorkplace/Rider/PitayaPartner/PitayaPartner/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leeco/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "TouchSocket": {
+              "target": "Package",
+              "version": "[2.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.414/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
