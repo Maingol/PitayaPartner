@@ -40,15 +40,3 @@ Rider开发环境可以直接运行pitaya_client_test中的start方法。
 [![JetBrains](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)]( https://jb.gg/OpenSourceSupport)
 
 
-## 如果觉得项目对你有帮助，请支持一下
-
-- 微信
-
-![image](https://github.com/Maingol/PitayaPartner/assets/58876284/b20fca46-bcda-4105-a968-b4cbe323a497)
-
-
-
-
-- 支付宝
-
-![image](https://github.com/Maingol/PitayaPartner/assets/58876284/5b5c8dd1-276c-427a-973f-0b2075e0eb2d)
